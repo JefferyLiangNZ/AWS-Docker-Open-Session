@@ -1,5 +1,13 @@
 
 
+===
+
+https://medium.freecodecamp.org/an-in-depth-introduction-to-docker-on-aws-f373ff97da0e
+https://aws.amazon.com/docker/
+
+===
+
+
 https://tuhrig.de/difference-between-save-and-export-in-docker/
 
 https://tuhrig.de/flatten-a-docker-container-or-image/
