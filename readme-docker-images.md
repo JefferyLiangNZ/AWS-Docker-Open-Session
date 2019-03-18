@@ -4,6 +4,7 @@ https://tuhrig.de/difference-between-save-and-export-in-docker/
 
 https://tuhrig.de/flatten-a-docker-container-or-image/
 
+https://windsock.io/diminishing-the-powers-of-a-container-workload/
 
 https://tuhrig.de/how-to-know-you-are-inside-a-docker-container/
 
