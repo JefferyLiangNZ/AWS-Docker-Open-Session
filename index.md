@@ -10,8 +10,4 @@ First layer: ARC2xx NET2xx CTD2xx
 
 Second layer: CON2xx CTD3xx NET3xx ARC3xx
 
-# Docker Learning Series
 
-[Docker Image](docker_image.md)
-
-[Docker Container](docker_image.md)
