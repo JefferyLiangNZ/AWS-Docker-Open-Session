@@ -7,6 +7,7 @@
 [Re:Invent 2018 Series ](https://jefferyliangnz.github.io/AWS-Docker-Open-Session/2018index.html)
 
 | Short Code | Domain |
+| ------- |:--------:| -----:|
 | ALX|Alexa |
 | ARC|Architecture ** |
 | BAP|Business Apps ** |
